@@ -1,11 +1,10 @@
 body {
-  background-color: #f4f4f4;
+  background-color: white;
 }
 
   h1{
     color: #66bfbf;
   }
-
 hr {
   height: 0px;
   border-style: dotted none none;
